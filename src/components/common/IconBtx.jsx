@@ -1,4 +1,4 @@
-export default function IconBtn({
+export default function IconBtx({
   text,
   onclick,
   children,
