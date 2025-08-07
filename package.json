@@ -45,7 +45,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "prebuild": "chmod +x node_modules/.bin/react-scripts",
     "build": "react-scripts build",
     "eject": "react-scripts eject",
     "server": "cd server && npm run dev",
