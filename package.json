@@ -35,14 +35,6 @@
     "video-react": "^0.16.0",
     "web-vitals": "^2.1.4"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/anirudhsai20/Study-Notion-major-project.git"
-  },
-  "author": "Pranay Gupta",
-  "bugs": {
-    "url": "https://github.com/anirudhsai20/Study-Notion-major-project/issues"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -72,11 +64,5 @@
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.17"
-  },
-  "description": "This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.",
-  "main": "postcss.config.js",
-  "keywords": [],
-  "license": "ISC",
-  "type": "commonjs",
-  "homepage": "https://github.com/thepranaygupta/react-tailwind-css-starter-pack#readme"
+  }
 }
