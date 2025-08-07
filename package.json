@@ -41,7 +41,7 @@
   },
   "author": "Pranay Gupta",
   "bugs": {
-    "url": "https://github.com/anirudhsai20/Study-Notion-major-project"
+    "url": "https://github.com/anirudhsai20/Study-Notion-major-project/issues"
   },
   "scripts": {
     "start": "react-scripts start",
