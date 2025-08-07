@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
-    "prebuild": "chmod +x node_modules/.bin/react-scripts",
     "build": "react-scripts build"
   },
   "keywords": [],
